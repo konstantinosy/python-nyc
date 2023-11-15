@@ -1,7 +1,7 @@
 <h1>This repository contains all of my exercises done for my python module.</h1>
 
-Topic 2 contains basic I/O and some math.
+1) Topic 2 contains basic I/O and some math.
 
-Topic 3 contains excercises using if statements.
+2) Topic 3 contains excercises using if statements.
 
-Topic 4 contains exercises with loops, lists, dictionaries and functions.
+3) Topic 4 contains exercises with loops, lists, dictionaries and functions.
