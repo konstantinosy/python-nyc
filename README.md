@@ -9,3 +9,5 @@
 4) Topic 5 contains list/dict/tuple exercises.
 
 5) Topic 6 contains an exercise using a function. Notable concepts are: Functions/Methods - Classes/Objects - Local/Global.
+
+6) Topic 8 contains three exercises regarding about handling files. 
