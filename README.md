@@ -11,3 +11,5 @@
 5) Topic 6 contains an exercise using a function. Notable concepts are: Functions/Methods - Classes/Objects - Local/Global.
 
 6) Topic 8 contains three exercises regarding about handling files. 
+
+7) Assignment .py file is the final assessment required for finishing the python module. Essentially it is a program that has a log in page for three users, it takes orders by inputting (names, dates, amount) and then it can manipulate the data with functions to view for example how many orders were made in a specific date or extrapolate data to txt and csv files . 
