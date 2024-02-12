@@ -11,4 +11,4 @@
 5) **topicEightExercices.py** contains exercises about handling files. 
 
 6) **assigment.py** is the final assessment required for finishing the python module.
-   The main goal of the program is to establish proper input while handling possible errors when input is made. Then the problems are addressed using a variety of functions to calculate various scenarios that occur when a database of customers is present and lastly it has export cabilities for data to be saved for future usage.
+   The main goal of the program is to establish proper input while handling possible errors when input is made. Then the problems are addressed using a variety of functions to calculate various scenarios that occur when a database of customers is present and lastly it has export capabilities for data to be saved for future usage.
