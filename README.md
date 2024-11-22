@@ -1,4 +1,4 @@
-<h1>This repository contains all of my exercises done for my python module.</h1>
+<h1>Exercises and Assessment -- Python Module</h1>
 
 1) [**Topic 1**](https://github.com/konstantinosy/pythonCoffeeshop/blob/main/topicTwoExercises.py) contains basic I/O and some math.
 
